@@ -1,7 +1,7 @@
 
 # DISCORD-GROUPE !
 
-DISCORD-GROUPE est un script en python pour rigoler deux minute qui vous permet de changer les regions discord dans un groupe ce qui a pour effet de le rendre inaccessible pour qu'il fonctionne vous devez être en 1920x1080 et lancer le script sur la page de discord en grand ouvert.
+DISCORD-GROUPE est un script en python pour rigoler deux minute qui vous permet de changer les regions discord dans un groupe ce qui a pour effet de le rendre inaccessible pour qu'il fonctionne vous devez être en 1920x1080 et lancer le script sur la page de discord du groupe en grand ouvert.
 
 ## ✔️Exigences
 
