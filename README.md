@@ -13,10 +13,10 @@ DISCORD-GROUPE est un script en python pour rigoler deux minute qui vous permet 
 
 ```bash
 # clone the repo
-$ git clone https://github.com/Tokaref/DISCORD-GROUPE.git
+$ git clone https://github.com/Tokaref/DISCORD-GROUP.git
 
-# change the working directory to DISCORD-GROUPE
-$ cd DISCORD-GROUPE
+# change the working directory to DISCORD-GROUP
+$ cd DISCORD-GROUP
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
